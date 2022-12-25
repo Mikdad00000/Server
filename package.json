@@ -1,0 +1,18 @@
+{
+  "name": "server1",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "index.js",
+  "scripts": {
+    "test": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mikdad00000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
